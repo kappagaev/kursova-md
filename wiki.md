@@ -7,7 +7,20 @@ Crystal, яка поєднує подібні до Ruby особливості: 
 Практична робота полягає у написанні веб застосунку на мові Crystal для
 демонстрації переваг відповідних тенденцій.
 
+[notes](notes)
+
 #main
 
-[links](links)
+## TODO
+- [ ] [interview](interview)
+- [ ] [CSP](CSP)
+- [ ] [llvm](llvm)
+
+## Resources
+[Interview with Crystal language creators](interview)
+[Crystal: a language for humans and computers](languge_for_humas_and_computers)
+[Introducing the Crystal Programming Language by Will Leinweber](https://www.youtube.com/watch?v=GHPBMwrOV1w&ab_channel=DoximityEngineering)
+
+## tutorial
+https://www.youtube.com/watch?v=LC1srwCOKLc&ab_channel=CodeMaven
 
