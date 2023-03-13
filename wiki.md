@@ -14,7 +14,14 @@ Crystal, яка поєднує подібні до Ruby особливості: 
 ## TODO
 - [ ] [interview](interview)
 - [ ] [CSP](CSP)
+- [X] [optimization](optimization)
+- [X] [concurrency](concurrency)
 - [ ] [llvm](llvm)
+- [ ] [semaphores](semaphores)
+- [ ] [parallelism](parallelism) 
+- [ ] [Event Loop](Event Loop)
+- [ ] [Runtime scheduler](Runtime scheduler)
+- [ ] [Macros](macros)
 
 ## Resources
 [Interview with Crystal language creators](interview)
