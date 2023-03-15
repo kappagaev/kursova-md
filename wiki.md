@@ -8,6 +8,7 @@ Crystal, яка поєднує подібні до Ruby особливості: 
 демонстрації переваг відповідних тенденцій.
 
 [notes](notes)
+[plan](plan)
 
 #main
 
@@ -16,6 +17,7 @@ Crystal, яка поєднує подібні до Ruby особливості: 
 - [ ] [CSP](CSP)
 - [X] [optimization](optimization)
 - [X] [concurrency](concurrency)
+- [ ] [testing](testing)
 - [ ] [llvm](llvm)
 - [ ] [semaphores](semaphores)
 - [ ] [parallelism](parallelism) 
