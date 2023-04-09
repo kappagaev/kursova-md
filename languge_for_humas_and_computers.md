@@ -79,10 +79,10 @@ class Person
 end
 ```
 
-check type in compile time not in runtime 
+check type in compile time not in runtime
 
 ## compilers and can detect return type without explicit return type
- 
+
 ```Crystal
 class Foo 
   def hello(name : String)
@@ -128,15 +128,21 @@ end
 end
 # def times becomes 
 
-i = 0 
-while i < 3 
+i = 0
+while i < 3
   puts "hello"
   i += 1
 end
 # this is the same as but 3.times is more readable and friendly to the
-# programmer 
+# programmer
 3.times do
   puts "hello"
+end
+
+if rand > 0.5
+  x = "hello"
+else
+  x = nil
 end
 ```
 
@@ -163,6 +169,6 @@ end
 ## Why Crystal?
 
 * Quick to learn
-* Enjoyable to use 
+* Enjoyable to use
 * Fast to compile
 
